@@ -1,0 +1,63 @@
+/* Styles for the Admin Panel component */
+
+/* Navbar */
+.navbar {
+    background-color:rgb(44, 44, 186);
+    padding: 5px;
+  }
+  
+  .navbar-brand {
+    color: white;
+    cursor: pointer;
+    margin-left:33rem;
+  }
+  
+  /* Table */
+  .table {
+    width: 1000px;
+  }
+  
+  /* Centering Content */
+  .center-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 3rem;
+  }
+  
+  /* Buttons */
+  .btn {
+    margin-left: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .btn-outline-success {
+    color: #1d1d1c;
+    border-color: #d9deda;
+  }
+  
+  .btn-outline-success:hover {
+    background-color: #1ea511;
+    color: #fff;
+  }
+  
+  .btn-danger {
+    color: #dc3545;
+    border-color: #e0d7d8;
+  }
+  
+  .btn-danger:hover {
+    background-color: #dc3545;
+    color: #fff;
+  }
+  .btn-primary {
+    color: #1530b8;
+    border-color: #ebe5e6;
+  }
+  
+  .btn-primar:hover {
+    background-color: #3556dc;
+    color: #fff;
+  }
+  
